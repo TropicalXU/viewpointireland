@@ -18,7 +18,7 @@ displayed on the locations view page so you can pinpoint the exact location. Thi
 * HTML(using EJS as a templating language)
 * CSS
 * Javascript
-* Bootstrap https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+* Bootstrap !\[alt text\](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 * Mongoose
 * MongoDB
 * MongoDB Atlas
