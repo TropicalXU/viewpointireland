@@ -12,15 +12,16 @@ can register and sign up for an account to post locations and write reviews. The
 displayed on the locations view page so you can pinpoint the exact location. This was possible using Mapbox. The application has built in security so as to secure your personal information as well as passwords. Feel free to try it out!
 </br>
 </br>
+
 ## Built With
 </br>
-*HTML(using EJS as a templating language)
-*CSS
-*Javascript
-*Bootstrap
-*Mongoose
-*MongoDB
-*MongoDB Atlas
-*ExpressJS
-*NodeJS
+-HTML(using EJS as a templating language)
+-CSS
+-Javascript
+-Bootstrap
+-Mongoose
+-MongoDB
+-MongoDB Atlas
+-ExpressJS
+-NodeJS
 
