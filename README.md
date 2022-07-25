@@ -14,14 +14,14 @@ displayed on the locations view page so you can pinpoint the exact location. Thi
 </br>
 
 ## Built With
-</br>
--HTML(using EJS as a templating language)
--CSS
--Javascript
--Bootstrap
--Mongoose
--MongoDB
--MongoDB Atlas
--ExpressJS
--NodeJS
+***
+* HTML(using EJS as a templating language)
+* CSS
+* Javascript
+* Bootstrap
+* Mongoose
+* MongoDB
+* MongoDB Atlas
+* ExpressJS
+* NodeJS
 
