@@ -32,9 +32,9 @@ displayed on the locations view page so you can pinpoint the exact location. Thi
 
 A JavaScript library that uses WebGL to render interactive maps from vector tiles and Mapbox styles. The use case in this web application was to display the interactive maps using POST request data from the user filling out the location in the form. We parse that data with JSON so that we can get the latitude and longitude coordinates. MapboxGL takes that information to pinpoint a location on the map.
 
+</br>
+</br>
 
-</br>
-</br>
 ## Screenshots
 ***
 
