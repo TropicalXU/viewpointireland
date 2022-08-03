@@ -2,8 +2,6 @@
 
 View the website here:
 https://viewpointireland.layerlabs.io
-
-</br>
 </br>
 </br>
 
@@ -41,9 +39,9 @@ A JavaScript library that uses WebGL to render interactive maps from vector tile
 ***
 <img width="1312" alt="Screen Shot 2022-07-25 at 7 20 18 PM" src="https://user-images.githubusercontent.com/100976172/182671096-80ab6fde-366a-408d-97ab-e4ace7710cbb.png">
 <img width="1437" alt="Screen Shot 2022-07-25 at 7 08 34 PM" src="https://user-images.githubusercontent.com/100976172/182671352-a2f02798-c27d-40ec-96fb-478101e6b899.png">
-
-
-
+<img width="1314" alt="Screen Shot 2022-07-25 at 7 19 38 PM" src="https://user-images.githubusercontent.com/100976172/182671488-68a20f1f-4155-416d-be9c-c0ebe7581871.png">
+<img width="498" alt="Screen Shot 2022-07-25 at 7 21 34 PM" src="https://user-images.githubusercontent.com/100976172/182671585-1d586fa1-f708-45d8-8e7a-3a0691a75fc1.png">
+<img width="498" alt="Screen Shot 2022-07-25 at 7 22 44 PM" src="https://user-images.githubusercontent.com/100976172/182671607-845b11d4-02a4-43cb-ba98-d8e35ab36e9f.png">
 </br>
 </br>
 
