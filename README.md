@@ -47,7 +47,7 @@ A JavaScript library that uses WebGL to render interactive maps from vector tile
 
 ## Contact
 ***
-Sean Hackett - hackiit.ca@gmail.com </br>
+Sean Hackett - seanhackettDEV@gmail.com </br>
 Personal Website - https://www.layerlabs.io
 
 
