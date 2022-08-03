@@ -2,10 +2,10 @@
 
 View the website here:
 https://viewpointireland.layerlabs.io
+</br>
+</br>
+</br>
 
-</br>
-</br>
-</br>
 ## Introduction
 ***
 Viewpoint Ireland is a web application showcasing Ireland's most popular locations. With the web application you
